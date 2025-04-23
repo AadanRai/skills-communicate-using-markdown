@@ -1,4 +1,6 @@
 # 
 ![mark henry :](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQug0Slpic6WaJAvJAwTwGfG1hMinu5N4dI9A&s)
-# Bobbyboy="Bobby boy"
-# document.write(Bobbyboy)
+```javascript
+bob="bobby boy"
+document.write(bob)
+```
